@@ -2,12 +2,6 @@
 
 FarmFriend is an intelligent agricultural solution designed to empower farmers by leveraging modern technology. This project integrates **deep learning** for accurate plant disease detection and **machine learning** for efficient irrigation scheduling, providing actionable insights through a user-friendly interface.
 
------
-
-## Link : [FarmFriend](https://smart-agriculture-system-delta.vercel.app/)
-
-----
-
 ## Key Features
 
   * **Real-time Disease Detection:** Instantly identify plant diseases by uploading an image. Our system uses a high-accuracy deep learning model to provide a quick diagnosis.
@@ -78,10 +72,3 @@ We plan to enhance FarmFriend with the following features:
   * **Advanced Analytics Dashboard:** Implement a dashboard to visualize historical data, track disease trends, and monitor crop health over time.
   * **Cloud Deployment:** Migrate the application to a cloud platform (like AWS or GCP) for improved scalability and accessibility.
 
------
-
-## Contributors
-
-  * **Dev Patel** - [@devpatel0005](https://github.com/devpatel0005)
-  * **Hari Patel** - [@haripatel07](https://github.com/haripatel07)
-  * **Het Patel** - [@ihetpatel](https://github.com/ihetpatel)
